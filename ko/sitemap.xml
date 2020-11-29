@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://FafoYOU/ko/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://FafoYOU/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://FafoYOU/ko/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://FafoYOU/ko/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://FafoYOU/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://FafoYOU/ko/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://FafoYOU/ko/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://FafoYOU/en/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://FafoYOU/ko/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://FafoYOU/ko/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://FafoYOU/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://FafoYOU/ko/tags/"
+                />
+  </url>
+  
+</urlset>
